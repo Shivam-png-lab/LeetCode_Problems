@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shivam-png-lab/LeetCode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Shivam-png-lab/LeetCode_Problems/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Shivam-png-lab/LeetCode_Problems/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/Shivam-png-lab/LeetCode_Problems/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/Shivam-png-lab/LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
 |  |
@@ -75,8 +76,29 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Shivam-png-lab/LeetCode_Problems/tree/master/0050-powx-n) |
+| [0204-count-primes](https://github.com/Shivam-png-lab/LeetCode_Problems/tree/master/0204-count-primes) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Shivam-png-lab/LeetCode_Problems/tree/master/0050-powx-n) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Shivam-png-lab/LeetCode_Problems/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Shivam-png-lab/LeetCode_Problems/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Shivam-png-lab/LeetCode_Problems/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Shivam-png-lab/LeetCode_Problems/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Shivam-png-lab/LeetCode_Problems/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
