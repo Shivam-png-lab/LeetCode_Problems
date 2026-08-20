@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shivam-png-lab/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Shivam-png-lab/LeetCode_Problems/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/Shivam-png-lab/LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Shivam-png-lab/LeetCode_Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Shivam-png-lab/LeetCode_Problems/tree/master/0059-spiral-matrix-ii) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Shivam-png-lab/LeetCode_Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Quicksort
 |  |
 | ------- |
