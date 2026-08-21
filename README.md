@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Shivam-png-lab/LeetCode_Problems/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Shivam-png-lab/LeetCode_Problems/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/Shivam-png-lab/LeetCode_Problems/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Shivam-png-lab/LeetCode_Problems/tree/master/0231-power-of-two) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Shivam-png-lab/LeetCode_Problems/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/Shivam-png-lab/LeetCode_Problems/tree/master/0231-power-of-two) |
 ## Binary Search
 |  |
