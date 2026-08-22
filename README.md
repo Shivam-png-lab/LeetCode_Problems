@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Shivam-png-lab/LeetCode_Problems/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Shivam-png-lab/LeetCode_Problems/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/Shivam-png-lab/LeetCode_Problems/tree/master/0367-valid-perfect-square) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Shivam-png-lab/LeetCode_Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Recursion
 |  |
 | ------- |
