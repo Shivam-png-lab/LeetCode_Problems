@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Shivam-png-lab/LeetCode_Problems/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/Shivam-png-lab/LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shivam-png-lab/LeetCode_Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shivam-png-lab/LeetCode_Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Shivam-png-lab/LeetCode_Problems/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Shivam-png-lab/LeetCode_Problems/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/Shivam-png-lab/LeetCode_Problems/tree/master/0367-valid-perfect-square) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shivam-png-lab/LeetCode_Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Shivam-png-lab/LeetCode_Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Recursion
 |  |
